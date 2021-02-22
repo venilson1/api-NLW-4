@@ -1,8 +1,7 @@
 # API em node NLW#4 💚🚀
 
 
-
-Criação de uma API Node e Typescript, durante a semana nlw#4 da [RockeSeat](https://github.com/Rocketseat) com a instrutora  [Daniele Evangelista](https://github.com/danileao)
+API NodeJs e Typescript que calcula o NPS(Net Promoter Score) sastifação de usuarios. Essa API foi criada durante a semana NLW#4 da [RockeSeat](https://github.com/Rocketseat) com a instrutora  [Daniele Evangelista](https://github.com/danileao)
 
 
 # Instalação ⚙
