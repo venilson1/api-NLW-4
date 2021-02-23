@@ -1,4 +1,4 @@
-# API em node NLW#4 💚🚀
+# API para calcular NPS
 
 
 API NodeJs e Typescript que calcula o NPS(Net Promoter Score) sastifação de usuarios. Essa API foi criada durante a semana NLW#4 da [RockeSeat](https://github.com/Rocketseat) com a instrutora  [Daniele Evangelista](https://github.com/danileao)
