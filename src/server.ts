@@ -1,5 +1,10 @@
+import 'reflect-metadata';
 import express from 'express';
+import './database';
+
 const app = express();
+
+
 
 app.get('/', (req, res) => {
   return res.json({ message: "Hello Word - NLW#4" })
