@@ -2,7 +2,7 @@ import { Column, CreateDateColumn, Entity, PrimaryColumn } from "typeorm";
 import { v4 as uuid } from 'uuid';
  
 @Entity("users") //informa que é uma entidade| precisa habilitar os decorators
-class Users{
+class User{
 
   @PrimaryColumn() //chave primaria
   readonly id: string;
@@ -23,4 +23,4 @@ class Users{
   }
 }
 
-export { Users }
+export { User }
